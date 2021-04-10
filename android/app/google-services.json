@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088210560952",
+    "project_id": "gryffindor-d5359",
+    "storage_bucket": "gryffindor-d5359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088210560952:android:df3cbc291561679654514d",
+        "android_client_info": {
+          "package_name": "com.example.gryffindor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088210560952-hv8jtbpc90vmfgag2ecf6q9abb2e71r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMisNaH-wuXS4XViZk4Tcht8iQMZhLdBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088210560952-hv8jtbpc90vmfgag2ecf6q9abb2e71r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
